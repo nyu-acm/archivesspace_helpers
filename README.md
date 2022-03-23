@@ -1,2 +1,2 @@
 # archivesspace_helpers
-Quick little tools to make ArchivesSpace tasks easier
+This growing repository includes quick little tools to make ArchivesSpace tasks easier.
