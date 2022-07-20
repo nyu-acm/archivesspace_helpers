@@ -1,4 +1,4 @@
-"""tc_number_and_barcode.py Creates text file of top containers and barcodes"""
+"""tc_number_and_barcode.py Creates text file of top containers and barcodes. This script is comptabile up to version 3.0.2"""
 
 #This script takes a csv export of top containers from ArchivesSpace's
 #Manage Top Containers search and returns a text file of the
